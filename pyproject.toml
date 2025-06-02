@@ -1,0 +1,5 @@
+[project]
+name = "snip"
+version = "0.1.0"
+description = "A terminal snippet manager to store, search, and copy code snippets without leaving your shell — local, offline, and built with Textual."
+requires-python = ">=3.10"
